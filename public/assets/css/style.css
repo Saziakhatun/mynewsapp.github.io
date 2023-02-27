@@ -1,0 +1,22 @@
+h1{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.background{
+background-color: green;
+
+}
+.card-title{
+    height: 100px;
+}
+.card-text{
+    height: 200px;
+}
+.card-source{
+    padding: 5px;
+    background-color: bisque;
+    font-size: 12px;
+
+}
